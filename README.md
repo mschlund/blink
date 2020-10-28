@@ -1,5 +1,7 @@
 # blink
-Blinking the onboard-LED of an Arduino-Board using Blech
+Blinking the onboard-LED of an Arduino-Board using the new language "Blech"
+
+see https://www.blech-lang.org/ for 
 
 ## Building
 Compile the Blech-program by executing the Makefile:
